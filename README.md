@@ -4,12 +4,12 @@ HCL or HTML Conversion Language is a project. HCL is an attempt to create a new,
 # How does HCL Work?
 HCL works by using a function similar to auto correct, for every HCL line written, it will automatically convert that to the appropiate matching html line.
 
-# HCL Samples
+<h1><b>HCL Samples</b></h1>
 
-# HCL -> HTML
-bold heading "Text" -> <h><b>Text</b></h>
-paragraph "The quick brown fox jumps over the lazy dog." -> <p>The quick brown fox jumps over the lazy dog.</p>
-image "imagesource.com" -> <img src=imagesource.com>
+<h2><b>HCL -> HTML</b></h2>
+bold heading "Text" -> |<h><b>Text</b></h>|
+paragraph "The quick brown fox jumps over the lazy dog." -> |<p>The quick brown fox jumps over the lazy dog.</p>|
+image "imagesource.com" -> |<img src=imagesource.com>|
 
 
 
