@@ -8,6 +8,12 @@ HCL works by using a function similar to auto correct, for every HCL line writte
 
 <img src=https://i.imgur.com/3INDqxw.png>
 
+# What is HCL Editor?
+HCL Editor is a piece of software currently in development. HCL editor is an editor that will have HCL compatibility built in and will give the user the most functionality of any editor with HCL and will be the first to use HCL.
+
+# Documentation
+Documentation for HCL will be released soon as I am still working on finalizing it and creating parts of the language.
+
 
 
 
