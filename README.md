@@ -26,4 +26,4 @@ Documentation for HCL will be released soon as I am still working on finalizing 
 
 
 
-# (C) Tyler Wolf 2018
+<h2>(C) Tyler Wolf</h2>
