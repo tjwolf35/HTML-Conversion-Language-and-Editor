@@ -6,11 +6,7 @@ HCL works by using a function similar to auto correct, for every HCL line writte
 
 <h1><b>HCL Samples</b></h1>
 
-<h2><b>HCL -> HTML</b></h2>
-bold heading "Text" -> |<h><b>Text</b></h>|
-paragraph "The quick brown fox jumps over the lazy dog." -> |<p>The quick brown fox jumps over the lazy dog.</p>|
-image "imagesource.com" -> |<img src=imagesource.com>|
-
+<img src=https://i.imgur.com/3INDqxw.png>
 
 
 
